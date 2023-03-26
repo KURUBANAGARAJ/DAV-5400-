@@ -1,0 +1,22 @@
+{
+	"albums": [
+		{
+			"title": "Thriller",
+			"artist": "Michael Jackson",
+			"songs": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
+			"year": "1982"
+		},
+		{
+			"title": "The Dark Side of the Moon",
+			"artist": "Pink Floyd",
+			"songs": ["Speak to Me", "Breathe", "On the Run", "Time", "The Great Gig in the Sky"],
+			"year": "1973"
+		},
+		{
+			"title": "Rumours",
+			"artist": "Fleetwood Mac",
+			"songs": ["Second Hand News", "Dreams", "Never Going Back Again", "Don't Stop", "Go Your Own Way"],
+			"year": "1977"
+		}
+	]
+}
